@@ -1,0 +1,6 @@
+{
+  "name": "PaperMind",
+  "description": "Think Less. Find Faster. PaperMind uses AI to understand and automatically organize, rename, and extract intelligence from all your documents.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
